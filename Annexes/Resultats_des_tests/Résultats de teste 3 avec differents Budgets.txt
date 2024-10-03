@@ -1,0 +1,13 @@
+###################### B=10000
+
+Child process exited with code 1 [0x1]
+Concert exception caught: ilog.cplex.CpxException: CPLEX Error  1016: Community Edition. Problem size limits exceeded. Purchase at http://ibm.biz/error1016.
+
+
+##################### B=15000
+
+Child process exited with code 1 [0x1]
+Concert exception caught: ilog.cplex.CpxException: CPLEX Error  1016: Community Edition. Problem size limits exceeded. Purchase at http://ibm.biz/error1016.
+
+
+%cette erreur inndique que le problème est plus large que la version qu'on a.
